@@ -1,5 +1,5 @@
 # Time
-This is the current timer, created using HTML, CSS and JavaScript
+This is the clock, created using HTML, CSS and JavaScript
 
-# Screenshots
-If you can check the type that is displayed on the screenshot and the time is far right is 
+# Screenshots 
+![Screenshot (21)](https://github.com/LwandoMadebe/Time/assets/147529941/9476fe27-2fd2-4a21-b52b-9fd5f52baf8f)
